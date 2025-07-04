@@ -1,5 +1,5 @@
 # 8-Bit Timer Module
-Overview
+## Overview
 This project implements an 8-bit timer module designed for integration into SoC architectures using the AMBA APB protocol. The design supports selectable clock sources, up/down counting, manual load operations, and status flags for underflow and overflow detection.
 
 Features
